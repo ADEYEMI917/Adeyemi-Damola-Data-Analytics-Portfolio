@@ -1,7 +1,6 @@
 # Adeyemi-Damola-Data-Analytics-Portfolio
 
-
-# Adeyemi Damola – Data Analytics Portfolio  
+ 
 
 ## 👋 About Me  
 I’m **Adeyemi Damola**, a **Data Analyst** passionate about transforming raw data into **actionable insights** that drive business success. With **expertise in SQL, Excel, Power BI, Tableau, and Python**, I specialize in **data cleaning, visualization, forecasting, and business intelligence**, helping organizations make **informed, data-driven decisions**.  
